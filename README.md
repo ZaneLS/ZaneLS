@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+
+
+<img width="720" height="296" alt="6507d5db3e00323a5c8c732aea456fc3" src="https://github.com/user-attachments/assets/c363669f-2ace-4563-af55-40d57cb0d062" />
+
+
+
 <!--
 **ZaneLS/ZaneLS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
